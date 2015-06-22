@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/*
+ *    HSHSL on GitHub
+ *    http://hshsl.github.io
+ *    http://github.com/hshsl
+ *    ...
+ */
+
+body { min-height: 100vh; }
+.vh100 { height: 100vh; }
+
+.landing_page {
+  position: fixed;
+  background-image: url(../images/inside_hshsl_180.jpg);
+  background-size: cover;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
