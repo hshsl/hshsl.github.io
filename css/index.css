@@ -23,3 +23,13 @@ body { min-height: 100vh; }
   left: 0;
   z-index: -1;
 }
+
+.h00 { font-size: 4rem; }
+
+@media (min-width: 52em) {
+  .h00-responsive { font-size: 8vw; }
+}
+
+@media (min-width: 96em) {
+  .h00-responsive { font-size: 7.68rem; }
+}
